@@ -19,6 +19,7 @@ maxim_bredikhin@mail.ru
 
 ## Goals
 To change my life to a better way as an Android developer
+To improve my skills of programming
 
 ## Skills
 - Kotlin
